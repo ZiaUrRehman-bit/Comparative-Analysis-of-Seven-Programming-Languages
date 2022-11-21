@@ -17,7 +17,7 @@ int main() {
     }
     time_req = clock() - time_req;
     cout<<x<<"\n";
-    cout<<(float) time_req/CLOCKS_PER_SEC);
+    cout<<(float) time_req/CLOCKS_PER_SEC;
 
     return 0;
 }
