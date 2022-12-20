@@ -1,10 +1,10 @@
 # Comparative-Analysis-of-Seven-Programming-Languages
 
-![image](https://user-images.githubusercontent.com/77435711/202899112-c6f1aeea-8e6a-4607-bdbb-778465e724a3.png)
-![image](https://user-images.githubusercontent.com/77435711/202899122-fb28574d-7ef9-498a-a612-861e1a459669.png)
-![image](https://user-images.githubusercontent.com/77435711/202899131-a6d6f2ca-bf19-4b13-bb44-64ac46edc74c.png)
-![image](https://user-images.githubusercontent.com/77435711/202899137-ba178098-8aca-4047-a49b-b97053e11f88.png)
-![image](https://user-images.githubusercontent.com/77435711/202899143-2745cb01-c814-4adf-8ca0-f71be867f969.png)
-![image](https://user-images.githubusercontent.com/77435711/202899153-8f55c712-14bf-4bcf-a272-29d301590bca.png)
-![image](https://user-images.githubusercontent.com/77435711/202899156-4eefd1f1-86af-4b8d-bca7-ace0d59fc35c.png)
-![image](https://user-images.githubusercontent.com/77435711/202899173-ca1ee5f9-003d-465c-9297-0c509164e499.png)
+![image](https://user-images.githubusercontent.com/77435711/208637090-a4ba5f93-955b-4d26-b638-a0f5929f0f5a.png)
+![image](https://user-images.githubusercontent.com/77435711/208637149-17f72d47-5147-427a-a2d6-1744f7840ced.png)
+![image](https://user-images.githubusercontent.com/77435711/208637188-be3c3085-b1c0-4e07-ace8-010f24247ac4.png)
+![image](https://user-images.githubusercontent.com/77435711/208637368-bead4166-6202-4cd3-8e3c-3a3528d9120a.png)
+![image](https://user-images.githubusercontent.com/77435711/208637425-667d3fd5-6613-4322-9a95-5752c390f798.png)
+![image](https://user-images.githubusercontent.com/77435711/208637477-d8dd269e-03ab-4b63-b8a3-8c03de09d59c.png)
+![image](https://user-images.githubusercontent.com/77435711/208637617-4693ec20-1960-491c-bfc6-9c671e1f3369.png)
+![image](https://user-images.githubusercontent.com/77435711/208637664-1bb49748-b02f-4f0b-9f67-dfda993ca583.png)
